@@ -58,8 +58,6 @@ A 16-week intensive development bootcamp, focusing on:
 
 - Psychology: BSc(Hons) 2:1
 
-#### Any other qualifications
-
 ## Experience
 
 **EMPOWER, North East London Foundation Trust** (Sep '16 - May '18')
