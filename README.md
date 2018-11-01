@@ -1,49 +1,34 @@
-## Samir Soormally
+## <p align="center"> Samir Soormally </p>
 
-I live for a challenge and I love to help.
+ <p align="center"> | <a href=#portfolio>Portfolio</a> | <a href=#experience>Experience</a> | <a href=#education>Education</a> |  <a href=#interests>Interests</a> | </p>
 
-My background in psychology, both clinically and in a research capacity, has 
-pushed me to understand and creatively solve complex problems in regards to 
-people's lives. After several of years working in this field, I crave a new 
-challenge. 
+I'm a full stack developer with a love of learning and a drive to meaningfully contribute to society as a whole.
 
-Since July 2017 I have been studying at Makers Academy, an intensive software 
-development bootcamp, to equip me for my future developer roles. I would love to 
-work with a passionate team where I am able to meaningully contribute and my 
-professional development is encouraged.
+## Portfolio
 
-## Skills
+|  Project | Technologies Used | Description | Timeframe |
+| --------- | --------- | ----------- | ----------------- |
+| [Googley Eyes](https://github.com) | Tech | Description | 2 Weeks|
+| [Acebook](https://github.com) | Tech | Description: link other two | 2 Weeks|
+| [MakersBnB](https://github.com) | Tech | Description | 1 Week |
+| [Bank Tech Test](https://github.com) | Tech | Description | 2 Days |
 
-#### Good communication
+## Experience
 
-I believe a team is only as strong as their communication. 
+**EMPOWER, North East London Foundation Trust** (Sep '16 - May '18')
+*Research Assistant*
+Evaluating the effectiveness of a new psychological intervention via a Randomised Control Trial.
 
-Understanding others and expressing yourself succinctly are keystones of good
-therapeutic and professional relationships, whether this is written or verbal.
-Developing these skills over my career have allowed me to work effectively with 
-challenging clients as well as multidisciplinary teams with widely differing 
-philosophies on psychological treatment.
-
-I feel confident in my ability to work and get along with all types of people 
-and believe this will make me a solid member of any team.
-
-#### Fast and dedicated learner
-
-Despite a heavy caseload in my previous psychological role, I was recommended
-by my line manager to work with a high-risk adolescent cohort in the evenings, 
-something I had no experience of. I was trusted to find a way to learn new
-techniques and adapt my current knowledge in a short timeframe.
-
-Due to time constraints, I decided to listen to pdf versions of textbooks while 
-driving my daily commute to work. My quick learning and effective use of time 
-allowed me to meet the needs of the clients while maintaining my other 
-responsibilities.
+**IMPART, North East London Foundation Trust** (Aug '15 - Sep '16)
+*Assistant Psychologist and Research Assistant*
+Providing psychological assessment, Dialectical Behavioural Therapy (DBT) and
+Cognitive Behavioural Therapy (CBT) for clients with Personality Disorders.
 
 ## Education
 
-#### Makers Academy (July 2017 to current)
+#### Makers Academy (July 2017 - November 2018)
 
-A 16-week intensive development bootcamp, focusing on:
+A 16-week intensive software development bootcamp, focusing on:
 
 - Test Driven Development
 - Object-Oriented Design
@@ -58,24 +43,12 @@ A 16-week intensive development bootcamp, focusing on:
 
 - Psychology: BSc(Hons) 2:1
 
-## Experience
-
-**EMPOWER, North East London Foundation Trust** (Sep '16 - May '18')
-*Research Assistant*
-Evaluating a new psychological intervention via a Randomised Control Trial. 
-
-**IMPART, North East London Foundation Trust** (Aug '15 - Sep '16)
-*Assistant Psychologist and Research Assistant*
-Providing psychological assessment, Dialectical Behavioural Therapy (DBT) and 
-Cognitive Behavioural Therapy (CBT) for clients with Personality Disorders.
 
 ## Interests
 
-- Bouldering - the exercise flavour of the month but I think it's here to stay! 
-- Fitness and nutrition - I enjoy reading journal articles and making structured
-    training plans for myself and friends. 
-- Team-based computer and board games - nothings better than beating people that
-    are more skilled than you because you have better teamwork.
+- Bouldering - slowly conquering a fear of heights in an extremely fun way.
+- Fitness and nutrition - I enjoy reading journal articles and making structured training plans for myself and friends.
+- Team-based computer and board games - I just love things that rewards the coordination and execution of good teamwork.
 
 ## Contact
 
