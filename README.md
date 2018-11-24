@@ -17,7 +17,7 @@ I'm a full stack developer with a love of learning and a drive to meaningfully c
 
 **EMPOWER, North East London Foundation Trust** (Sep '16 - May '18')
 *Research Assistant*
-Evaluating the effectiveness of a new psychological intervention via a Randomised Control Trial.
+Evaluating the effectiveness of a new psychological intervention (DBT-SE) via a Randomised Controlled Trial.
 
 **IMPART, North East London Foundation Trust** (Aug '15 - Sep '16)
 *Assistant Psychologist and Research Assistant*
