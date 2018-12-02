@@ -2,16 +2,16 @@
 
  <p align="center"> | <a href=#portfolio>Portfolio</a> | <a href=#experience>Experience</a> | <a href=#education>Education</a> |  <a href=#interests>Interests</a> | </p>
 
-I'm a full stack developer with a love of learning and a drive to meaningfully contribute to society as a whole.
+I'm a full stack developer with a love of problem-solving and a drive to meaningfully contribute to society.
 
 ## Portfolio
 
 |  Project | Technologies Used | Description | Timeframe |
 | --------- | --------- | ----------- | ----------------- |
-| [Googley Eyes](https://github.com) | Tech | Description | 2 Weeks|
-| [Acebook](https://github.com) | Tech | Description: link other two | 2 Weeks|
-| [MakersBnB](https://github.com) | Tech | Description | 1 Week |
-| [Bank Tech Test](https://github.com) | Tech | Description | 2 Days |
+| [Googley Eyes](https://github.com/LazySamir/googley-eyes) | Node.js, Jasmine, Selenium + WebdriverIO | Productivity Chrome Extension that monitors and visually presents your internet usage. Available on [Chrome store](https://chrome.google.com/webstore/detail/googley-eyes/pmmhkfmjlmfafdbmncichafmcchedefb) | 2 Weeks|
+| [Acebook API](https://github.com/LazySamir/Acebook-EagleWithTopHat) + [FrontEnd](https://github.com/LazySamir/Acebook-Frontend-EagleWithTopHat)| Rails, Rspec, Capybara + React, Jest, Enzyme | Facebook clone, created with changing user demands in a fully agile team.  | 2 Weeks|
+| [MakersBnB](https://github.com/LazySamir/makersbnb) | Ruby, Sinatra, Rspec, Capybara | AirBnB clone | 1 Week |
+| [Bank Tech Test](https://github.com/LazySamir/bank-tech-test) | Ruby, Rspec | An OOD and TDD irb tech test | 2 Days |
 
 ## Experience
 
@@ -34,6 +34,10 @@ A 16-week intensive software development bootcamp, focusing on:
 - Object-Oriented Design
 - Agile Methodologies
 - Pair-programming
+- Self-directed and reflection focused learning
+
+Technologies used: Ruby, Sinatra, Rails, JavaScript, Node.js, React. 
+Testing: RSpec, Capybara, Jasmine, Jest, Enzyme, Selenium.
 
 #### University of Essex (2011-2012)
 
